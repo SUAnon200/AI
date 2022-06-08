@@ -1,2 +1,2 @@
 # AI
- deep_learnning_for_covid_detection
+ deep learnning for covid detection
