@@ -1,0 +1,1 @@
+curl -v -X POST --data "{"temperature":40,"hr":70,"spo2":99}" http://161.246.160.28/api/v1/beR1wKyxSUqmcivsgMPc/telemetry --header "Content-Type:application/json"
